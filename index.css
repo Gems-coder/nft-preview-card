@@ -91,6 +91,11 @@ main{
     cursor: pointer;
     color: hsl(178, 100%, 50%);
     font-weight: 600;
+    font-size: 20px;
+  }
+
+  .p{
+    font-size: 20px;
   }
   .flex1{
     display: flex;
